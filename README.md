@@ -1,47 +1,9 @@
-# -Consultorio-Ginecol-gico
-Sistema web completo para la gestión de consultorios ginecológicos con historiales médicos, recetas digitales, gestión de pacientes y reportes avanzados.
 
-# 📋 **Texto para Invitar a Probar la Demo**
+(`consultorio_ginecologico/README.md`).
 
 ---
 
-## 🎯 **Invitación para Probar el Sistema**
-
-**¡Hola! Te invito a probar nuestro Sistema de Gestión para Consultorios Ginecológicos** 🏥
-
-Estamos desarrollando una plataforma integral para la gestión médica y queremos tu feedback. El sistema incluye historiales médicos, recetas digitales, gestión de pacientes y más.
-
-### 🔑 **Credenciales de Prueba:**
-- **URL:** https://easyturnos.com
-- **Usuario:** `ejemplo@gmail.com`
-- **Contraseña:** `12345678`
-
-### 🚀 **Funcionalidades para Probar:**
-
-1. **📊 Dashboard** - Vista general del consultorio
-2. **👥 Gestión de Pacientes** - Agregar, editar y buscar pacientes
-3. **🩺 Consultas Médicas** - Registrar consultas con diagnósticos CIE-10
-4. **💊 Sistema de Recetas** - Generar recetas médicas personalizables
-5. **⚡ Navegación Inteligente** - Efectos visuales modernos
-6. **📈 Reportes** - Estadísticas y reportes del consultorio
-
-### 🎨 **Características Destacadas:**
-- Interfaz moderna y responsive
-- Navegación con efectos de "rayo"
-- Recetas médicas profesionales
-- Base de datos CIE-10 integrada
-- Sistema seguro con roles de usuario
-
-**⏰ Tiempo de prueba:** 5-10 minutos
-**📅 Disponibilidad:** 24/7
-
-¡Tu opinión es muy valiosa para nosotros! ¿Podrías probarlo y contarnos tu experiencia?
-
----
-
-# 📖 **README Completo para GitHub**
-
-```markdown
+````markdown
 # 🏥 Sistema de Gestión para Consultorios Ginecológicos
 
 [![PHP](https://img.shields.io/badge/PHP-8.0+-purple.svg)](https://php.net)
@@ -49,287 +11,278 @@ Estamos desarrollando una plataforma integral para la gestión médica y queremo
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.0-green.svg)](https://getbootstrap.com)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Sistema web completo para la gestión de consultorios ginecológicos con historiales médicos, recetas digitales, gestión de pacientes y reportes avanzados.
+Sistema web completo para la gestión de consultorios ginecológicos con historiales médicos, recetas digitales, gestión de pacientes, usuarios y reportes avanzados.  
+Desarrollado en **PHP + MySQL** bajo arquitectura **MVC**.
 
-![Dashboard Preview](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=Consultorio+Ginecológico+Dashboard)
+---
 
 ## 🚀 Características Principales
 
 ### 👥 Gestión de Pacientes
-- Registro completo de información de pacientes
-- Historial médico integrado
-- Búsqueda avanzada y filtros
-- Expedientes médicos digitales
+- Registro completo de datos personales y médicos
+- Historial clínico vinculado
+- Búsqueda avanzada y filtros por nombre, cédula o teléfono
+- Expediente digital del paciente
 
-### 🩺 Sistema de Consultas
-- Registro de consultas médicas
-- Diagnósticos con base de datos CIE-10
-- Notas de evolución y tratamiento
-- Historial de consultas por paciente
+### 🩺 Módulo de Consultas
+- Registro y seguimiento de consultas médicas
+- Diagnósticos CIE-10 integrados
+- Control de próximas visitas
+- Relación directa con recetas y análisis
 
-### 💊 Recetas Médicas Avanzadas
-- Generación de recetas profesionales
-- Dos tipos de recetas: Medicamentos y Análisis
-- Plantillas personalizables
-- Logotipo del consultorio
-- Información del médico (exequatur, especialidad)
+### 💊 Recetas Médicas Digitales
+- Creación de recetas profesionales con logotipo y pie personalizado
+- Dos tipos de receta: **Medicamentos** y **Análisis**
+- Compatible con impresión en PDF
+- Gestión centralizada por paciente y por consulta
+
+### 👨‍⚕️ Configuración del Consultorio
+- Personalización de datos del médico y del consultorio
+- Logo, pie de página, exequátur y especialidad
+- Ajustes para recetas y reportes
 
 ### 📊 Dashboard y Reportes
-- Estadísticas en tiempo real
-- Reportes de consultas y pacientes
-- Gráficos y métricas del consultorio
-- Exportación de datos
+- Estadísticas en tiempo real de pacientes y consultas
+- Reportes por fechas, médico o tipo de receta
+- Gráficos interactivos y métricas clave
+- Exportación a PDF o Excel
+
+### 👩‍💻 Gestión de Usuarios y Roles
+- Creación y administración de usuarios del sistema
+- Roles: **Administrador**, **Médico** y **Recepcionista**
+- Control de accesos por permisos
+- Activación y expiración de cuentas
 
 ### ⚡ Experiencia de Usuario
-- Navegación con efectos visuales modernos
-- Interfaz responsive (móvil y escritorio)
-- Carga rápida y optimizada
-- Diseño intuitivo y profesional
+- Interfaz moderna y responsive
+- Menú de navegación con efecto “rayo”
+- Notificaciones dinámicas
+- Carga rápida y animaciones optimizadas
+
+---
 
 ## 🛠️ Tecnologías Utilizadas
 
-- **Backend:** PHP 8.0+, MySQL 8.0
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
-- **Librerías:** Bootstrap 5, Font Awesome, GSAP
-- **PDF:** DomPDF para generación de recetas
-- **Hosting:** Hostinger (optimizado)
+| Área | Tecnología |
+|------|-------------|
+| **Backend** | PHP 8+, MySQL 8 |
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+) |
+| **Librerías** | Bootstrap 5, Font Awesome, GSAP |
+| **PDF** | DomPDF (recetas y reportes) |
+| **Servidor** | Apache (XAMPP / Hostinger) |
+
+---
 
 ## 📦 Instalación
 
-### Requisitos del Sistema
-- PHP 7.4 o superior
-- MySQL 5.7 o superior
-- Extensiones PHP: PDO, MBString, GD
-- Servidor web (Apache/Nginx)
+### Requisitos
+- PHP 7.4 o superior  
+- MySQL 5.7 o superior  
+- Extensiones: `pdo`, `mbstring`, `gd`  
+- Servidor Apache con `mod_rewrite` habilitado  
 
-### Pasos de Instalación
+---
+
+### 🧩 Pasos de instalación
 
 1. **Clonar el repositorio**
 ```bash
 git clone https://github.com/tuusuario/consultorio-ginecologico.git
 cd consultorio-ginecologico
-```
+````
 
-2. **Configurar base de datos**
+2. **Importar la base de datos**
+
 ```sql
--- Importar el archivo database/schema.sql
--- Configurar credenciales en config/database.php
+-- En phpMyAdmin o consola MySQL
+CREATE DATABASE consultorio_ginecologico;
+USE consultorio_ginecologico;
+SOURCE database/schema.sql;
 ```
 
-3. **Configurar permisos**
-```bash
-chmod 755 uploads/
-chmod 755 logs/
-chmod 644 config/database.php
-```
+3. **Configurar conexión**
+   Edita el archivo `config/database.php`:
 
-4. **Configurar variables de entorno**
 ```php
-# En config/database.php
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'consultorio');
-define('DB_USER', 'usuario');
-define('DB_PASS', 'contraseña');
+define('DB_NAME', 'consultorio_ginecologico');
+define('DB_USER', 'root');
+define('DB_PASS', '');
+define('BASE_URL', '/consultorio_ginecologico');
+```
+
+4. **Permisos**
+
+```bash
+chmod -R 755 public/uploads
 ```
 
 5. **Acceder al sistema**
+
 ```
-URL: http://tudominio.com
-Usuario: ejemplo@gmail.com
+URL: http://localhost/consultorio_ginecologico
+Usuario: admin@consultorio.com
 Contraseña: 12345678
 ```
 
-## 🎯 Demo en Vivo
-
-Puedes probar el sistema funcionando en:
-
-**🌐 URL:** [https://easyturnos.com](https://easyturnos.com)
-
-**🔑 Credenciales de Demo:**
-- **Usuario:** `ejemplo@gmail.com`
-- **Contraseña:** `12345678`
-
-## 📋 Funcionalidades Detalladas
-
-### Módulo de Autenticación
-- Login seguro con validación
-- Control de sesiones
-- Roles de usuario (Administrador/Médico)
-
-### Gestión de Usuarios
-- Creación y edición de usuarios
-- Asignación de roles
-- Control de accesos
-
-### Sistema de Recetas
-```php
-// Tipos de receta soportados
-- Receta de medicamentos
-- Receta de análisis clínicos
-- Personalización completa
-- Impresión profesional
-```
-
-### Base de Datos CIE-10
-- Búsqueda inteligente de diagnósticos
-- Categorías médicas organizadas
-- Actualización automática
-
-### Configuración del Consultorio
-- Personalización de logo
-- Información del médico
-- Pie de página personalizado
-- Datos de contacto
+---
 
 ## 🗂️ Estructura del Proyecto
 
 ```
-consultorio-ginecologico/
+consultorio_ginecologico/
 ├── app/
-│   ├── controllers/         # Controladores MVC
-│   ├── models/             # Modelos de datos
-│   └── views/              # Vistas (opcional)
+│   ├── controllers/      # Controladores MVC
+│   ├── models/           # Modelos de datos
+│   └── views/            # Vistas HTML/PHP
 ├── config/
-│   ├── database.php        # Configuración BD
-│   └── navbar.php          # Navegación
+│   ├── database.php      # Config BD
+│   └── navbar.php        # Barra de navegación
+├── database/
+│   └── schema.sql        # Script de base de datos
 ├── public/
-│   ├── assets/
-│   │   ├── css/           # Estilos
-│   │   ├── js/            # JavaScript
-│   │   └── img/           # Imágenes estáticas
-│   └── uploads/           # Archivos subidos
-├── uploads/               # Archivos (fuera de public)
-├── logs/                  # Logs del sistema
+│   ├── assets/           # CSS, JS, imágenes
+│   └── uploads/          # Archivos subidos
 ├── index.php             # Punto de entrada
-└── .htaccess            # Configuración Apache
+└── .htaccess             # Reescritura de URLs
 ```
+
+---
 
 ## 🔧 Configuración para Producción
 
-### Hostinger (Recomendado)
-```php
-# Configuración optimizada para Hostinger
-define('BASE_URL', 'https://tudominio.com');
-$uploadDir = __DIR__ . '/../../uploads/'; # Fuera de public/
-```
+### Hostinger o Servidor Propio
 
-### Variables de Entorno
 ```php
-# Production Settings
+define('BASE_URL', 'https://tudominio.com');
 ini_set('display_errors', 0);
 ini_set('log_errors', 1);
-ini_set('error_log', __DIR__ . '/logs/php-errors.log');
+ini_set('error_log', __DIR__ . '/../logs/php-errors.log');
 ```
+
+Asegúrate de:
+
+* Habilitar `mod_rewrite`
+* Subir `/public` como raíz pública
+* Proteger carpetas `app/` y `config/` con `.htaccess`
+
+---
 
 ## 🎨 Personalización
 
-### Modificar Estilos
-Editar `public/assets/css/styles.css`:
+### Estilos globales
+
+`/public/assets/css/styles.css`
+
 ```css
 :root {
-    --primary: #3B82F6;    /* Color principal */
-    --secondary: #10B981;  /* Color secundario */
-    --accent: #F59E0B;     /* Color de acento */
+  --primary: #8B5FBF;
+  --primary-dark: #6B46C1;
+  --accent: #ED64A6;
+  --success: #48BB78;
 }
 ```
 
-### Configurar Recetas
-En `AjusteRecetaController.php`:
+### Ajustes de receta
+
+`app/controllers/AjusteRecetaController.php`
+
 ```php
 $data = [
-    'medico_nombre' => 'Dr. Nombre Completo',
+    'medico_nombre' => 'Dra. Nombre Apellido',
     'medico_exequatur' => '12345',
-    'medico_especialidad' => 'Ginecología'
+    'especialidad' => 'Ginecología y Obstetricia'
 ];
 ```
 
+---
+
 ## 📊 Base de Datos
 
-### Tablas Principales
-- `usuarios` - Usuarios del sistema
-- `pacientes` - Datos de pacientes
-- `consultas` - Registro de consultas
-- `recetas` - Recetas médicas
-- `consultorios` - Configuración del consultorio
-- `cie10` - Catálogo de diagnósticos
+### Tablas principales
 
-### Esquema Principal
+* `usuarios` → Administración de usuarios y roles
+* `pacientes` → Información del paciente
+* `consultas` → Registro de consultas médicas
+* `recetas` → Recetas digitales
+* `consultorios` → Configuración del consultorio
+* `cie10` → Diagnósticos internacionales
+
+### Ejemplo de estructura:
+
 ```sql
-CREATE TABLE consultorios (
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    nombre VARCHAR(255),
-    logo VARCHAR(500),
-    medico_nombre VARCHAR(255),
-    medico_exequatur VARCHAR(100),
-    pie_pagina TEXT,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+CREATE TABLE usuarios (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  nombre VARCHAR(100),
+  email VARCHAR(150) UNIQUE,
+  password VARCHAR(255),
+  rol ENUM('administrador','medico','recepcionista'),
+  activo BOOLEAN DEFAULT 1,
+  fecha_expiracion DATE NULL,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 ```
 
+---
+
 ## 🔒 Seguridad
 
-- Validación de entrada de datos
-- Protección contra SQL Injection
-- Control de sesiones seguro
-- Protección de archivos subidos
-- Headers de seguridad HTTP
+* Validación de datos en servidor y cliente
+* Hash de contraseñas con `password_hash()`
+* Sesiones seguras con expiración controlada
+* Prevención de SQL Injection y XSS
+* Protección de archivos subidos
+
+---
 
 ## 🚀 Despliegue
 
-### Opción 1: Hostinger
-1. Subir archivos via FTP/File Manager
-2. Crear base de datos MySQL
-3. Importar schema.sql
-4. Configurar .htaccess
-5. Verificar permisos de carpetas
+**1️⃣ En Hostinger**
 
-### Opción 2: Servidor Propio
-```bash
-# Configurar virtual host
-# Habilitar mod_rewrite
-# Configurar PHP settings
-```
+* Subir todos los archivos
+* Configurar la base de datos MySQL
+* Importar `schema.sql`
+* Ajustar `config/database.php`
+* Verificar permisos de `uploads/`
+
+**2️⃣ En XAMPP (local)**
+
+* Carpeta dentro de `htdocs`
+* Acceder por `http://localhost/consultorio_ginecologico`
+
+---
 
 ## 🤝 Contribución
 
-Las contribuciones son bienvenidas. Por favor:
+1. Haz un fork del repositorio
+2. Crea una rama feature:
 
-1. Fork el proyecto
-2. Crear una rama feature (`git checkout -b feature/AmazingFeature`)
-3. Commit cambios (`git commit -m 'Add AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abrir un Pull Request
+   ```bash
+   git checkout -b feature/nueva-funcionalidad
+   ```
+3. Realiza tus cambios y haz commit
+4. Envía un Pull Request con una descripción clara
+
+---
 
 ## 📝 Licencia
 
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para detalles.
-
-## 📞 Soporte
-
-Si encuentras algún problema o tienes preguntas:
-
-- 📧 Email: soporte@tudominio.com
-- 🐛 Issues: [GitHub Issues](https://github.com/tuusuario/consultorio-ginecologico/issues)
-- 💬 Discord: [Enlace al servidor]
-
-## 🙏 Agradecimientos
-
-- [Bootstrap](https://getbootstrap.com) por el framework CSS
-- [Font Awesome](https://fontawesome.com) por los iconos
-- [GSAP](https://gsap.com) por las animaciones
-- [DomPDF](https://github.com/dompdf/dompdf) por la generación de PDF
+Proyecto distribuido bajo licencia **MIT**.
+Consulta el archivo [LICENSE](LICENSE) para más información.
 
 ---
 
-**¿Te gusta el proyecto? ¡Dale una ⭐ en GitHub!**
+## 🙌 Créditos y Agradecimientos
+
+* **Bootstrap 5** — Framework de CSS
+* **Font Awesome** — Iconografía profesional
+* **GSAP** — Animaciones fluidas y modernas
+* **DomPDF** — Generación de documentos PDF
+* **CIE-10 OMS** — Base de datos de diagnósticos médicos
+
+---
+
+**💡 Desarrollado con pasión para consultorios modernos.**
+Si te gusta este proyecto, ¡dale una ⭐ en GitHub!
+
 ```
-
----
-
-## 🎯 **Resumen de la Invitación**
-
-**Para enviar a probar:** Usa el primer bloque de texto que incluye las credenciales y descripción breve.
-
-**Para GitHub:** Usa el README completo que proporciona documentación técnica detallada, instrucciones de instalación, y información completa del proyecto.
-
-¿Necesitas que ajuste algo específico en el texto de invitación o en el README?
