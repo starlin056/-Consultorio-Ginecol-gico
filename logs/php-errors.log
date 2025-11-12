@@ -1,0 +1,76 @@
+[12-Nov-2025 02:52:37 UTC] FileController - Solicitado: logos/logo_1_1762915531.png
+[12-Nov-2025 02:52:37 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/logos/logo_1_1762915531.png
+[12-Nov-2025 02:53:47 UTC] FileController - Solicitado: logos/logo_1_1762913959.png
+[12-Nov-2025 02:53:47 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/logos/logo_1_1762913959.png
+[12-Nov-2025 02:53:47 UTC] FileController - Solicitado: logos/logo_1_1762914538.png
+[12-Nov-2025 02:53:47 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/logos/logo_1_1762914538.png
+[12-Nov-2025 02:53:47 UTC] FileController - Solicitado: logos/logo_1_1762915531.png
+[12-Nov-2025 02:53:47 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/logos/logo_1_1762915531.png
+[12-Nov-2025 02:54:05 UTC] FileController - Solicitado: logos/logo_1_1762915531.png
+[12-Nov-2025 02:54:05 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/logos/logo_1_1762915531.png
+[11-Nov-2025 22:55:05 America/Santo_Domingo] Tipo receta: analisis
+[11-Nov-2025 22:55:05 America/Santo_Domingo] Tiene medicamentos: Sí
+[11-Nov-2025 22:55:05 America/Santo_Domingo] Tiene análisis: Sí
+[11-Nov-2025 22:55:05 America/Santo_Domingo] Receta creada con ID: 18
+[12-Nov-2025 13:26:14 UTC] FileController - Solicitado: logos/
+[12-Nov-2025 13:26:14 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/logos/
+[12-Nov-2025 13:26:14 UTC] PHP Notice:  readfile(): Read of 8192 bytes failed with errno=21 Is a directory in /home/u548411484/domains/easyturnos.com/public_html/app/controllers/FileController.php on line 54
+[12-Nov-2025 13:44:19 UTC] FileController - Solicitado: logos/logo_1_1762915531.png
+[12-Nov-2025 13:44:19 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/logos/logo_1_1762915531.png
+[12-Nov-2025 13:46:16 UTC] FileController - Solicitado: logos/logo_1_1762915531.png
+[12-Nov-2025 13:46:16 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/logos/logo_1_1762915531.png
+[12-Nov-2025 13:46:20 UTC] FileController - Solicitado: logos/logo_1_1762915531.png
+[12-Nov-2025 13:46:20 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/logos/logo_1_1762915531.png
+[12-Nov-2025 13:46:26 UTC] FileController - Solicitado: logos/logo_1_1762915531.png
+[12-Nov-2025 13:46:26 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/logos/logo_1_1762915531.png
+[12-Nov-2025 13:46:36 UTC] FileController - Solicitado: 691222a4aaa87_Imagen_de_WhatsApp_2025-11-04_a_las_09.41.14_bf584150.jpg
+[12-Nov-2025 13:46:36 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/691222a4aaa87_Imagen_de_WhatsApp_2025-11-04_a_las_09.41.14_bf584150.jpg
+[12-Nov-2025 13:46:36 UTC] FileController - Ruta insegura: 691222a4aaa87_Imagen_de_WhatsApp_2025-11-04_a_las_09.41.14_bf584150.jpg
+[12-Nov-2025 13:46:47 UTC] FileController - Solicitado: logos/logo_1_1762915531.png
+[12-Nov-2025 13:46:47 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/logos/logo_1_1762915531.png
+[12-Nov-2025 13:46:49 UTC] FileController - Solicitado: logos/logo_1_1762915531.png
+[12-Nov-2025 13:46:49 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/logos/logo_1_1762915531.png
+[12-Nov-2025 09:59:19 America/Santo_Domingo] Tipo receta: analisis
+[12-Nov-2025 09:59:19 America/Santo_Domingo] Tiene medicamentos: Sí
+[12-Nov-2025 09:59:19 America/Santo_Domingo] Tiene análisis: Sí
+[12-Nov-2025 09:59:19 America/Santo_Domingo] Receta creada con ID: 19
+[12-Nov-2025 13:59:20 UTC] FileController - Solicitado: logos/logo_1_1762915531.png
+[12-Nov-2025 13:59:20 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/logos/logo_1_1762915531.png
+[12-Nov-2025 13:59:24 UTC] FileController - Solicitado: logos/logo_1_1762915531.png
+[12-Nov-2025 13:59:24 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/logos/logo_1_1762915531.png
+[12-Nov-2025 13:59:34 UTC] FileController - Solicitado: 691492b7cdf95_Bien_Hecho_Pedro_Ure__a.png
+[12-Nov-2025 13:59:34 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/691492b7cdf95_Bien_Hecho_Pedro_Ure__a.png
+[12-Nov-2025 13:59:42 UTC] FileController - Solicitado: 691492b7cdf95_Bien_Hecho_Pedro_Ure__a.png
+[12-Nov-2025 13:59:42 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/691492b7cdf95_Bien_Hecho_Pedro_Ure__a.png
+[12-Nov-2025 14:07:26 UTC] FileController - Solicitado: logos/logo_1_1762915531.png
+[12-Nov-2025 14:07:26 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/logos/logo_1_1762915531.png
+[12-Nov-2025 14:07:30 UTC] FileController - Solicitado: logos/logo_1_1762915531.png
+[12-Nov-2025 14:07:30 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/logos/logo_1_1762915531.png
+[12-Nov-2025 14:31:21 UTC] FileController - Solicitado: logos/logo_1_1762915531.png
+[12-Nov-2025 14:31:21 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/logos/logo_1_1762915531.png
+[12-Nov-2025 14:37:54 UTC] FileController - Solicitado: logos/logo_1_1762915531.png
+[12-Nov-2025 14:37:54 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/logos/logo_1_1762915531.png
+[12-Nov-2025 11:15:24 America/Santo_Domingo] Tipo receta: analisis
+[12-Nov-2025 11:15:24 America/Santo_Domingo] Tiene medicamentos: Sí
+[12-Nov-2025 11:15:24 America/Santo_Domingo] Tiene análisis: Sí
+[12-Nov-2025 11:15:24 America/Santo_Domingo] Receta creada con ID: 20
+[12-Nov-2025 15:15:24 UTC] FileController - Solicitado: logos/logo_1_1762915531.png
+[12-Nov-2025 15:15:24 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/logos/logo_1_1762915531.png
+[12-Nov-2025 15:15:30 UTC] FileController - Solicitado: logos/logo_1_1762915531.png
+[12-Nov-2025 15:15:30 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/logos/logo_1_1762915531.png
+[12-Nov-2025 15:15:55 UTC] FileController - Solicitado: logos/logo_1_1762915531.png
+[12-Nov-2025 15:15:55 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/logos/logo_1_1762915531.png
+[12-Nov-2025 15:25:50 UTC] FileController - Solicitado: logos/logo_1_1762915531.png
+[12-Nov-2025 15:25:50 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/logos/logo_1_1762915531.png
+[12-Nov-2025 15:26:41 UTC] FileController - Solicitado: logos/logo_1_1762915531.png
+[12-Nov-2025 15:26:41 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/logos/logo_1_1762915531.png
+[12-Nov-2025 11:49:53 America/Santo_Domingo] Tipo receta: analisis
+[12-Nov-2025 11:49:53 America/Santo_Domingo] Tiene medicamentos: Sí
+[12-Nov-2025 11:49:53 America/Santo_Domingo] Tiene análisis: Sí
+[12-Nov-2025 11:49:53 America/Santo_Domingo] Receta creada con ID: 21
+[12-Nov-2025 15:49:53 UTC] FileController - Solicitado: logos/logo_1_1762915531.png
+[12-Nov-2025 15:49:53 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/logos/logo_1_1762915531.png
+[12-Nov-2025 15:50:01 UTC] FileController - Solicitado: logos/logo_1_1762915531.png
+[12-Nov-2025 15:50:01 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/logos/logo_1_1762915531.png
+[12-Nov-2025 15:50:10 UTC] FileController - Solicitado: logos/logo_1_1762915531.png
+[12-Nov-2025 15:50:10 UTC] FileController - Ruta completa: /home/u548411484/domains/easyturnos.com/public_html/app/controllers/../../uploads/logos/logo_1_1762915531.png
