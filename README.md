@@ -65,6 +65,10 @@ Sistema web completo para la gestión de consultorios ginecológicos con histori
 
 ---
 
+## 🖼️ Vista Previa
+
+![Dashboard del Sistema](https://github.com/starlin056/-Consultorio-Ginecol-gico/blob/main/Screenshot%202025-11-12%20120432.jpg?raw=true)
+
 ## 📦 Instalación
 
 ### Requisitos del Sistema
@@ -92,7 +96,4 @@ Este proyecto está bajo la licencia **MIT**. Consulta el archivo [LICENSE](LICE
 
 **💡 Creado con pasión para consultorios modernos.**
 Si encuentras útil este proyecto, no olvides **darle una estrella ⭐ en GitHub**.
-
-```
-<img width="1053" height="882" alt="image" src="https://github.com/user-attachments/assets/7682a495-458a-429f-9415-00ebfd05f33c" />
 
