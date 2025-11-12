@@ -94,4 +94,5 @@ Este proyecto está bajo la licencia **MIT**. Consulta el archivo [LICENSE](LICE
 Si encuentras útil este proyecto, no olvides **darle una estrella ⭐ en GitHub**.
 
 ```
+<img width="1053" height="882" alt="image" src="https://github.com/user-attachments/assets/7682a495-458a-429f-9415-00ebfd05f33c" />
 
