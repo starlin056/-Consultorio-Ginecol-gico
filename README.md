@@ -1,6 +1,4 @@
-Aquí tienes el **README definitivo** listo para tu repositorio Sistema de Gestión para Consultorios Ginecológicos (GitHub: [https://github.com/starlin056/-Consultorio-Ginecol-gico](https://github.com/starlin056/-Consultorio-Ginecol-gico)). Puedes copiarlo directamente al archivo `README.md` en la raíz del proyecto.
 
-````markdown
 # 🏥 Sistema de Gestión para Consultorios Ginecológicos
 
 [![PHP](https://img.shields.io/badge/PHP-8.0+-purple.svg)](https://php.net)  
